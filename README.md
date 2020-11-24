@@ -1,8 +1,8 @@
 # Welcome to Petful!
 
-## Live Link: 
+## Live Link: https://petful3.vercel.app
 
-Server Repo: 
+Server Repo: https://github.com/wzeiher3/PetfulServer.git
 
 Front-End: `ReactJS, JSX`
 
